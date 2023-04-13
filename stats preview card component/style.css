@@ -1,0 +1,39 @@
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+div {
+    width: 1440px;
+    border: 1px solid white;
+}
+
+h1,
+#stats {
+    color: hsl(0, 0%, 100%);
+}
+
+.stat_heading {
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+#insights {
+    color: hsl(277, 64%, 61%);
+}
+
+#main {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+main {
+    background-color: hsl(244, 38%, 16%);
+    display: flex;
+}
+
+img {
+    mask-image: ;
+}
