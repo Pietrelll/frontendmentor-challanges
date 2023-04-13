@@ -24,6 +24,7 @@ h1 {
 
 #stats {
     margin-top: 50px;
+    font-size: larger;
 }
 
 h1,
@@ -31,8 +32,13 @@ h1,
     color: hsl(0, 0%, 100%);
 }
 
-.stat_heading {
+.stat-text {
     color: hsla(0, 0%, 100%, 0.6);
+    padding-right: 50px;
+}
+
+.stat-num {
+    padding-right: 110px;
 }
 
 #insights {
@@ -76,4 +82,5 @@ h1,
 #text,
 #stats {
     margin-left: 80px;
+    padding-bottom: 20px;
 }
