@@ -37,8 +37,7 @@ h1,
     margin-left: 17.5px;
 }
 
-#img {
-    display: inline-block;
+#avatar {
     width: 30px;
     height: 30px;
     border-radius: 50%;
@@ -53,4 +52,8 @@ h1,
 
 p {
     color: hsl(215, 51%, 70%);
+}
+
+#eth {
+    color: cyan;
 }
