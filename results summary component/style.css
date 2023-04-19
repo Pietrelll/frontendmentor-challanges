@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+}
+
+header {
+    color: aliceblue;
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.category {
+    margin-bottom: 10px;
+    background-color: aqua;
+}
