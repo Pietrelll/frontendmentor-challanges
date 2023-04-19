@@ -10,11 +10,20 @@ h1 {
 }
 
 header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     color: aliceblue;
     background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
     height: 300px;
+}
+
+#score {
+    width: 100px;
+    height: 100px;
+    background-color: black;
 }
 
 main {
@@ -24,7 +33,17 @@ main {
 }
 
 .category {
+    display: flex;
     margin-bottom: 10px;
     width: 340px;
+    height: 40px;
     background-color: aqua;
+}
+
+button {
+    color: aliceblue;
+    background-color: hsla(224, 30%, 27%, 85%);
+    border-radius: 20px;
+    width: 340px;
+    height: 40px;
 }
