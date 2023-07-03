@@ -1,2 +1,2 @@
-# frontendmentor-challanges
-all the frontendmentor challanges I've done 
+# easy-html-css-projects
+
